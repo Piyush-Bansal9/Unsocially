@@ -2,6 +2,7 @@
 
 > 🔥 A modern, full-featured **social media platform** built with the **MERN Stack**  
 > Connect. Share. Engage. Securely and effortlessly.
+> Become social with unsocially
 
 ---
 
