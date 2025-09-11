@@ -11,7 +11,7 @@
 **Frontend**:  
 - ⚛️ React.js  
 - 🧰 Redux Toolkit  
-- 🎨 Tailwind CSS / CSS Modules  
+- 🎨 Tailwind CSS  
 
 **Backend**:  
 - 🟢 Node.js  
